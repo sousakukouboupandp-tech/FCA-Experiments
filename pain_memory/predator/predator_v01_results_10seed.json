@@ -1,0 +1,8 @@
+{
+ "PermBan": {"rew_pre": 8.49861, "rew_post_first50": 5.8534, "rew_last100": 9.2186, "collisions_pre": 10.3, "success_last100": 1.0},
+ "PermBan+認識": {"rew_pre": 3.38132, "rew_post_first50": -4.762, "rew_last100": 8.34375, "collisions_pre": 10.5, "success_last100": 0.98},
+ "NoMemory": {"rew_pre": 8.02266, "rew_post_first50": 6.4194, "rew_last100": 8.2834, "collisions_pre": 30.9, "success_last100": 0.997},
+ "NoMemory+認識": {"rew_pre": 4.24554, "rew_post_first50": -9.3766, "rew_last100": 8.33675, "collisions_pre": 80.7, "success_last100": 1.0},
+ "FCA": {"rew_pre": 8.29299, "rew_post_first50": 6.4585, "rew_last100": 8.78145, "collisions_pre": 19.3, "success_last100": 0.999},
+ "FCA+認識": {"rew_pre": 4.68486, "rew_post_first50": -8.0278, "rew_last100": 8.30375, "collisions_pre": 69.5, "success_last100": 1.0}
+}
