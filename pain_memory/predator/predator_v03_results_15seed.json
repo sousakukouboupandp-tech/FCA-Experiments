@@ -1,0 +1,8 @@
+{
+ "PermBan": {"rew_pre": 2.853, "rew_post_first50": -1.964, "rew_last100": 8.867, "deaths_pre": 12.4, "deaths_post": 1.8, "success_last100": 0.999, "avg_pain_last100": 0.094},
+ "NoMemory": {"rew_pre": 2.633, "rew_post_first50": 0.090, "rew_last100": 8.694, "deaths_pre": 18.6, "deaths_post": 7.8, "success_last100": 0.993, "avg_pain_last100": 0.185},
+ "FCA": {"rew_pre": -4.408, "rew_post_first50": 6.454, "rew_last100": 9.148, "deaths_pre": 10.67, "deaths_post": 1.4, "success_last100": 0.999, "avg_pain_last100": 0.043},
+ "PermBan+認識": {"rew_pre": 0.285, "rew_post_first50": -1.307, "rew_last100": 8.871, "deaths_pre": 15.33, "deaths_post": 2.53, "success_last100": 0.998, "avg_pain_last100": 0.058},
+ "NoMemory+認識": {"rew_pre": -0.618, "rew_post_first50": -1.370, "rew_last100": 8.879, "deaths_pre": 34.33, "deaths_post": 4.33, "success_last100": 0.999, "avg_pain_last100": 0.084},
+ "FCA+認識": {"rew_pre": -4.573, "rew_post_first50": -4.209, "rew_last100": 9.086, "deaths_pre": 23.0, "deaths_post": 3.33, "success_last100": 0.999, "avg_pain_last100": 0.047}
+}
