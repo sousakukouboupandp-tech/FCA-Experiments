@@ -1,0 +1,8 @@
+{
+ "PermBan": {"rew_pre": 4.8017, "rew_post_first50": 9.1727, "rew_last100": 9.2278, "collisions_pre": 5.93, "collisions_post": 0.4, "success_last100": 1.0, "avg_steps_last100": 15.44, "gap_mid_last100": 0.13, "gap_top_last100": 99.87},
+ "NoMemory": {"rew_pre": 7.4599, "rew_post_first50": 1.2737, "rew_last100": 9.5615, "collisions_pre": 57.4, "collisions_post": 3.07, "success_last100": 1.0, "avg_steps_last100": 8.50, "gap_mid_last100": 100.0, "gap_top_last100": 0.0},
+ "FCA": {"rew_pre": 8.0734, "rew_post_first50": -1.2064, "rew_last100": 9.5542, "collisions_pre": 30.93, "collisions_post": 3.2, "success_last100": 1.0, "avg_steps_last100": 8.78, "gap_mid_last100": 100.0, "gap_top_last100": 0.0},
+ "PermBan+認識": {"rew_pre": -2.832, "rew_post_first50": -3.1337, "rew_last100": -2.9426, "collisions_pre": 5.67, "collisions_post": 1.6, "success_last100": 0.005, "avg_steps_last100": 44.88, "gap_mid_last100": 0.07, "gap_top_last100": 1.6},
+ "NoMemory+認識": {"rew_pre": 5.7658, "rew_post_first50": -0.4597, "rew_last100": 9.5496, "collisions_pre": 74.67, "collisions_post": 11.4, "success_last100": 1.0, "avg_steps_last100": 9.01, "gap_mid_last100": 100.0, "gap_top_last100": 0.0},
+ "FCA+認識": {"rew_pre": 6.7182, "rew_post_first50": 0.4013, "rew_last100": 9.5371, "collisions_pre": 38.73, "collisions_post": 7.27, "success_last100": 1.0, "avg_steps_last100": 8.99, "gap_mid_last100": 100.0, "gap_top_last100": 0.0}
+}
