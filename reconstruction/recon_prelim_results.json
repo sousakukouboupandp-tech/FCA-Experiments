@@ -1,0 +1,3372 @@
+[
+ {
+  "seed": 200,
+  "skip": null,
+  "cont_death": 860,
+  "cont_events_post": [
+   {
+    "ep": 509,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 563,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 579,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 598,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 612,
+    "part": "organs",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 624,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 624,
+    "part": "organs",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 642,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 670,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 675,
+    "part": "arm",
+    "pk": "(((2, 2), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 684,
+    "part": "organs",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 718,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 728,
+    "part": "arm",
+    "pk": "(((2, 2), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 734,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 756,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 763,
+    "part": "organs",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 786,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 803,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 824,
+    "part": "organs",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 855,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 859,
+    "part": "arm",
+    "pk": "(((2, 2), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 859,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 883,
+    "death_part": "organs",
+    "common_len": 360,
+    "valid_pair": true,
+    "N_hist": 0.6294397376227414,
+    "N_hist_L": 0.697841726618705,
+    "N_hist_P": 0.1403596422615754,
+    "D_behav": 0.06738677018323419,
+    "sum_w": 0.8554355063464301,
+    "sum_wC": 0.865690914640441,
+    "sum_wL": 0.8066666666666666,
+    "sum_wP": 0.048768839679763344,
+    "n_events": 20,
+    "coll_eps": 21,
+    "succ_eps": 382,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 2
+   },
+   "Q-only": {
+    "life": 883,
+    "death_part": "organs",
+    "common_len": 360,
+    "valid_pair": true,
+    "N_hist": 0.6294397376227414,
+    "N_hist_L": 0.697841726618705,
+    "N_hist_P": 0.1403596422615754,
+    "D_behav": 0.06738677018323419,
+    "sum_w": 0.8554355063464301,
+    "sum_wC": 0.865690914640441,
+    "sum_wL": 0.8066666666666666,
+    "sum_wP": 0.048768839679763344,
+    "n_events": 20,
+    "coll_eps": 21,
+    "succ_eps": 382,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 2
+   },
+   "SCAR-only": {
+    "life": 756,
+    "death_part": "organs",
+    "common_len": 256,
+    "valid_pair": true,
+    "N_hist": 0.34518071557371877,
+    "N_hist_L": 0.39473684210526316,
+    "N_hist_P": 0.0,
+    "D_behav": 0.4005260759404285,
+    "sum_w": 0.9113132880922017,
+    "sum_wC": 0.6475,
+    "sum_wL": 0.8466666666666667,
+    "sum_wP": 0.06464662142553497,
+    "n_events": 24,
+    "coll_eps": 20,
+    "succ_eps": 230,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 5
+   },
+   "NONE": {
+    "life": 671,
+    "death_part": "organs",
+    "common_len": 171,
+    "valid_pair": true,
+    "N_hist": 0.34633311128340305,
+    "N_hist_L": 0.38039215686274513,
+    "N_hist_P": 0.0,
+    "D_behav": 0.49998547674883653,
+    "sum_w": 0.8102572556090879,
+    "sum_wC": 0.44666666666666666,
+    "sum_wL": 0.7266666666666667,
+    "sum_wP": 0.08359058894242123,
+    "n_events": 21,
+    "coll_eps": 16,
+    "succ_eps": 148,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 5
+   },
+   "SCAR-rand": {
+    "life": 690,
+    "death_part": "organs",
+    "common_len": 190,
+    "valid_pair": true,
+    "N_hist": 0.3959306632832723,
+    "N_hist_L": 0.45318352059925093,
+    "N_hist_P": 0.07114748737611729,
+    "D_behav": 0.47829727482377526,
+    "sum_w": 0.893885037791738,
+    "sum_wC": 0.5675,
+    "sum_wL": 0.8066666666666666,
+    "sum_wP": 0.0872183711250714,
+    "n_events": 23,
+    "coll_eps": 18,
+    "succ_eps": 164,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 5
+   }
+  },
+  "cont_death_part": "organs",
+  "cont_broken": [
+   "arm"
+  ]
+ },
+ {
+  "seed": 201,
+  "skip": null,
+  "cont_death": 1000,
+  "cont_events_post": [
+   {
+    "ep": 520,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 520,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 573,
+    "part": "organs",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 573,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 588,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 600,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 611,
+    "part": "neck",
+    "pk": "(((1, 2), False), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 629,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 664,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 664,
+    "part": "organs",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 689,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 753,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 763,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 828,
+    "part": "organs",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 842,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 847,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 875,
+    "part": "neck",
+    "pk": "(((1, 2), False), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 888,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 932,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 935,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 976,
+    "part": "neck",
+    "pk": "(((2, 2), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 976,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 991,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.6234179475194018,
+    "N_hist_L": 0.6666666666666666,
+    "N_hist_P": 0.23847364588575348,
+    "D_behav": 0.045249655665882696,
+    "sum_w": 0.7985934723186384,
+    "sum_wC": 0.7182868526273565,
+    "sum_wL": 0.76,
+    "sum_wP": 0.038593472318638376,
+    "n_events": 30,
+    "coll_eps": 25,
+    "succ_eps": 494,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 11
+   },
+   "Q-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.747865137461762,
+    "N_hist_L": 0.7222222222222222,
+    "N_hist_P": 0.9786716561623142,
+    "D_behav": 0.05249120768416536,
+    "sum_w": 0.6799929702003881,
+    "sum_wC": 0.7182868526273565,
+    "sum_wL": 0.6000000000000001,
+    "sum_wP": 0.07999297020038804,
+    "n_events": 23,
+    "coll_eps": 23,
+    "succ_eps": 494,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 8
+   },
+   "SCAR-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.6472959649969945,
+    "N_hist_L": 0.64,
+    "N_hist_P": 0.740491243030754,
+    "D_behav": 0.32823344031668206,
+    "sum_w": 1.0579707288149967,
+    "sum_wC": 0.7182868526273565,
+    "sum_wL": 1.0,
+    "sum_wP": 0.0579707288149966,
+    "n_events": 39,
+    "coll_eps": 31,
+    "succ_eps": 455,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 14
+   },
+   "NONE": {
+    "life": 885,
+    "death_part": "organs",
+    "common_len": 385,
+    "valid_pair": true,
+    "N_hist": 0.525356288537353,
+    "N_hist_L": 0.5238095238095237,
+    "N_hist_P": 0.5419527198380341,
+    "D_behav": 0.3203753598594003,
+    "sum_w": 0.8024277727089552,
+    "sum_wC": 0.5982868526273564,
+    "sum_wL": 0.76,
+    "sum_wP": 0.04242777270895515,
+    "n_events": 29,
+    "coll_eps": 26,
+    "succ_eps": 348,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 10
+   },
+   "SCAR-rand": {
+    "life": 870,
+    "death_part": "organs",
+    "common_len": 370,
+    "valid_pair": true,
+    "N_hist": 0.4783278382926113,
+    "N_hist_L": 0.5454545454545454,
+    "N_hist_P": 0.1070895698990867,
+    "D_behav": 0.4768507171415877,
+    "sum_w": 0.9778734456101263,
+    "sum_wC": 0.5582868526273564,
+    "sum_wL": 0.88,
+    "sum_wP": 0.09787344561012629,
+    "n_events": 35,
+    "coll_eps": 29,
+    "succ_eps": 318,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 13
+   }
+  },
+  "cont_death_part": null,
+  "cont_broken": [
+   "leg"
+  ]
+ },
+ {
+  "seed": 202,
+  "skip": null,
+  "cont_death": 947,
+  "cont_events_post": [
+   {
+    "ep": 519,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 546,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 573,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 584,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 610,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 657,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 666,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 697,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 721,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 721,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 753,
+    "part": "brain",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 808,
+    "part": "brain",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 811,
+    "part": "organs",
+    "pk": "(((2, 2), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 811,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 819,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 854,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 861,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 884,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 894,
+    "part": "arm",
+    "pk": "(((2, 4), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 895,
+    "part": "brain",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 901,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 914,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 940,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 946,
+    "part": "brain",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 931,
+    "death_part": "brain",
+    "common_len": 431,
+    "valid_pair": true,
+    "N_hist": 0.8376588253719439,
+    "N_hist_L": 0.8666666666666667,
+    "N_hist_P": 0.5688511775939707,
+    "D_behav": 0.06095546071921684,
+    "sum_w": 0.6081626052119201,
+    "sum_wC": 0.6134170626677835,
+    "sum_wL": 0.56,
+    "sum_wP": 0.04816260521192007,
+    "n_events": 21,
+    "coll_eps": 21,
+    "succ_eps": 429,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 7
+   },
+   "Q-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 447,
+    "valid_pair": true,
+    "N_hist": 0.6833240490673984,
+    "N_hist_L": 0.7058823529411765,
+    "N_hist_P": 0.39615650618749726,
+    "D_behav": 0.07486618615323437,
+    "sum_w": 0.5411615169172678,
+    "sum_wC": 0.6934170626677836,
+    "sum_wL": 0.52,
+    "sum_wP": 0.021161516917267708,
+    "n_events": 20,
+    "coll_eps": 23,
+    "succ_eps": 499,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 7
+   },
+   "SCAR-only": {
+    "life": 701,
+    "death_part": "brain",
+    "common_len": 201,
+    "valid_pair": true,
+    "N_hist": 0.29923974230877837,
+    "N_hist_L": 0.26666666666666666,
+    "N_hist_P": 0.6375257705035008,
+    "D_behav": 0.46714915562058873,
+    "sum_w": 0.6177731379849283,
+    "sum_wC": 0.2368318643082465,
+    "sum_wL": 0.56,
+    "sum_wP": 0.05777313798492829,
+    "n_events": 23,
+    "coll_eps": 19,
+    "succ_eps": 174,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 9
+   },
+   "NONE": {
+    "life": 702,
+    "death_part": "brain",
+    "common_len": 202,
+    "valid_pair": true,
+    "N_hist": 0.31242449447784276,
+    "N_hist_L": 0.29411764705882354,
+    "N_hist_P": 0.47193037754920814,
+    "D_behav": 0.3698274250603437,
+    "sum_w": 0.7580451228834194,
+    "sum_wC": 0.2368318643082465,
+    "sum_wL": 0.68,
+    "sum_wP": 0.07804512288341943,
+    "n_events": 23,
+    "coll_eps": 18,
+    "succ_eps": 187,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 6
+   },
+   "SCAR-rand": {
+    "life": 817,
+    "death_part": "brain",
+    "common_len": 317,
+    "valid_pair": true,
+    "N_hist": 0.4727909793772118,
+    "N_hist_L": 0.5,
+    "N_hist_P": 0.0,
+    "D_behav": 0.33830827023246074,
+    "sum_w": 0.6,
+    "sum_wC": 0.39683186430824646,
+    "sum_wL": 0.6,
+    "sum_wP": 0.0,
+    "n_events": 21,
+    "coll_eps": 19,
+    "succ_eps": 297,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 6
+   }
+  },
+  "cont_death_part": "brain",
+  "cont_broken": [
+   "arm"
+  ]
+ },
+ {
+  "seed": 203,
+  "skip": null,
+  "cont_death": 1000,
+  "cont_events_post": [
+   {
+    "ep": 506,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 517,
+    "part": "leg",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 523,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 529,
+    "part": "heart",
+    "pk": "(((2, 2), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 547,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 557,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 591,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 622,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 627,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 721,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 727,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 771,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 776,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 811,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 831,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 854,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 873,
+    "part": "leg",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 888,
+    "part": "heart",
+    "pk": "(((2, 2), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 888,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 905,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 939,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 965,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 995,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.8083218533032708,
+    "N_hist_L": 0.8823529411764705,
+    "N_hist_P": 0.19709107346852628,
+    "D_behav": 0.06442268949909064,
+    "sum_w": 0.7623602825881681,
+    "sum_wC": 0.6162324765064733,
+    "sum_wL": 0.68,
+    "sum_wP": 0.08236028258816808,
+    "n_events": 28,
+    "coll_eps": 23,
+    "succ_eps": 489,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 11
+   },
+   "Q-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.7860886231299812,
+    "N_hist_L": 0.7894736842105263,
+    "N_hist_P": 0.6276010121860555,
+    "D_behav": 0.05837855652309595,
+    "sum_w": 0.770187518685749,
+    "sum_wC": 0.6162324765064733,
+    "sum_wL": 0.76,
+    "sum_wP": 0.010187518685748959,
+    "n_events": 28,
+    "coll_eps": 25,
+    "succ_eps": 496,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 9
+   },
+   "SCAR-only": {
+    "life": 902,
+    "death_part": "neck",
+    "common_len": 402,
+    "valid_pair": true,
+    "N_hist": 0.45202666049645096,
+    "N_hist_L": 0.47826086956521735,
+    "N_hist_P": 0.1817657908287739,
+    "D_behav": 0.3730625775827754,
+    "sum_w": 0.9693043538746213,
+    "sum_wC": 0.49623247650647323,
+    "sum_wL": 0.88,
+    "sum_wP": 0.08930435387462131,
+    "n_events": 35,
+    "coll_eps": 34,
+    "succ_eps": 359,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 13
+   },
+   "NONE": {
+    "life": 992,
+    "death_part": "neck",
+    "common_len": 492,
+    "valid_pair": true,
+    "N_hist": 0.5202522103112509,
+    "N_hist_L": 0.56,
+    "N_hist_P": 0.15085640628909483,
+    "D_behav": 0.2713402894375932,
+    "sum_w": 1.1076021688821487,
+    "sum_wC": 0.5762324765064732,
+    "sum_wL": 1.0,
+    "sum_wP": 0.10760216888214869,
+    "n_events": 44,
+    "coll_eps": 37,
+    "succ_eps": 464,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 19
+   },
+   "SCAR-rand": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.6617994870963722,
+    "N_hist_L": 0.6666666666666667,
+    "N_hist_P": 0.5286498503058189,
+    "D_behav": 0.25957166346548965,
+    "sum_w": 0.8307055350475989,
+    "sum_wC": 0.6162324765064733,
+    "sum_wL": 0.8,
+    "sum_wP": 0.030705535047598875,
+    "n_events": 37,
+    "coll_eps": 31,
+    "succ_eps": 471,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 17
+   }
+  },
+  "cont_death_part": null,
+  "cont_broken": [
+   "leg"
+  ]
+ },
+ {
+  "seed": 204,
+  "skip": null,
+  "cont_death": 1000,
+  "cont_events_post": [
+   {
+    "ep": 533,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 533,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 577,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 588,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 601,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 627,
+    "part": "organs",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 649,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 664,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 707,
+    "part": "heart",
+    "pk": "(((1, 2), False), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 714,
+    "part": "arm",
+    "pk": "(((2, 4), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 721,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 728,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 735,
+    "part": "arm",
+    "pk": "(((2, 4), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 735,
+    "part": "arm",
+    "pk": "(((2, 4), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 735,
+    "part": "arm",
+    "pk": "(((1, 4), False), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 747,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 778,
+    "part": "arm",
+    "pk": "(((1, 4), False), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 783,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 793,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 814,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 855,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 863,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 865,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 914,
+    "part": "organs",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 939,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 946,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 966,
+    "part": "organs",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 978,
+    "death_part": "organs",
+    "common_len": 478,
+    "valid_pair": true,
+    "N_hist": 0.6223265162821472,
+    "N_hist_L": 0.619047619047619,
+    "N_hist_P": 0.7721231884128453,
+    "D_behav": 0.10174884461261939,
+    "sum_w": 0.778386748102124,
+    "sum_wC": 0.6141968345691559,
+    "sum_wL": 0.76,
+    "sum_wP": 0.01838674810212403,
+    "n_events": 27,
+    "coll_eps": 23,
+    "succ_eps": 475,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 8
+   },
+   "Q-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.6221746893713367,
+    "N_hist_L": 0.619047619047619,
+    "N_hist_P": 0.8071975590207193,
+    "D_behav": 0.10204858674919368,
+    "sum_w": 0.7714596502100436,
+    "sum_wC": 0.6141968345691559,
+    "sum_wL": 0.76,
+    "sum_wP": 0.011459650210043559,
+    "n_events": 26,
+    "coll_eps": 22,
+    "succ_eps": 500,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 7
+   },
+   "SCAR-only": {
+    "life": 790,
+    "death_part": "organs",
+    "common_len": 290,
+    "valid_pair": true,
+    "N_hist": 0.3998698682926896,
+    "N_hist_L": 0.42105263157894735,
+    "N_hist_P": 0.187382363616324,
+    "D_behav": 0.37949987132919066,
+    "sum_w": 0.7957639849085513,
+    "sum_wC": 0.37419683456915587,
+    "sum_wL": 0.72,
+    "sum_wP": 0.07576398490855128,
+    "n_events": 27,
+    "coll_eps": 22,
+    "succ_eps": 262,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 9
+   },
+   "NONE": {
+    "life": 793,
+    "death_part": "organs",
+    "common_len": 293,
+    "valid_pair": true,
+    "N_hist": 0.4575093005089409,
+    "N_hist_L": 0.44999999999999996,
+    "N_hist_P": 0.7931214110210688,
+    "D_behav": 0.3548516318222175,
+    "sum_w": 0.8178999512204301,
+    "sum_wC": 0.37419683456915587,
+    "sum_wL": 0.8,
+    "sum_wP": 0.01789995122043012,
+    "n_events": 28,
+    "coll_eps": 22,
+    "succ_eps": 268,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 8
+   },
+   "SCAR-rand": {
+    "life": 832,
+    "death_part": "organs",
+    "common_len": 332,
+    "valid_pair": true,
+    "N_hist": 0.5166644736058652,
+    "N_hist_L": 0.5263157894736842,
+    "N_hist_P": 0.0,
+    "D_behav": 0.3564520597102216,
+    "sum_w": 0.76,
+    "sum_wC": 0.41419683456915585,
+    "sum_wL": 0.76,
+    "sum_wP": 0.0,
+    "n_events": 27,
+    "coll_eps": 20,
+    "succ_eps": 306,
+    "broken": [
+     "arm"
+    ],
+    "phantom_hits": 8
+   }
+  },
+  "cont_death_part": null,
+  "cont_broken": [
+   "arm"
+  ]
+ },
+ {
+  "seed": 205,
+  "skip": null,
+  "cont_death": 1000,
+  "cont_events_post": [
+   {
+    "ep": 501,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 510,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 560,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 600,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 607,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 630,
+    "part": "leg",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 654,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 661,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 681,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 742,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 784,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 789,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 839,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 850,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 850,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 895,
+    "part": "leg",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 898,
+    "part": "organs",
+    "pk": "(((1, 4), False), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 900,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 918,
+    "part": "organs",
+    "pk": "(((2, 4), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 923,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 959,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 968,
+    "part": "arm",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.5338653193836691,
+    "N_hist_L": 0.7293233082706767,
+    "N_hist_P": 0.027447690694898646,
+    "D_behav": 0.07053807107988024,
+    "sum_w": 0.4941523522754907,
+    "sum_wC": 0.4483207290649273,
+    "sum_wL": 0.36333333333333334,
+    "sum_wP": 0.13081901894215736,
+    "n_events": 22,
+    "coll_eps": 20,
+    "succ_eps": 498,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 14
+   },
+   "Q-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.6419973755581667,
+    "N_hist_L": 0.694267515923567,
+    "N_hist_P": 0.35290630276416424,
+    "D_behav": 0.06053185163390244,
+    "sum_w": 0.5663621882262838,
+    "sum_wC": 0.4483207290649273,
+    "sum_wL": 0.48333333333333334,
+    "sum_wP": 0.08302885489295053,
+    "n_events": 26,
+    "coll_eps": 26,
+    "succ_eps": 498,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 15
+   },
+   "SCAR-only": {
+    "life": 917,
+    "death_part": "organs",
+    "common_len": 417,
+    "valid_pair": true,
+    "N_hist": 0.5920476162125962,
+    "N_hist_L": 0.5739644970414202,
+    "N_hist_P": 0.7724877102256111,
+    "D_behav": 0.3506512947106697,
+    "sum_w": 0.618412500358077,
+    "sum_wC": 0.3683207290649273,
+    "sum_wL": 0.5633333333333334,
+    "sum_wP": 0.05507916702474368,
+    "n_events": 36,
+    "coll_eps": 29,
+    "succ_eps": 382,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 23
+   },
+   "NONE": {
+    "life": 993,
+    "death_part": "organs",
+    "common_len": 493,
+    "valid_pair": true,
+    "N_hist": 0.5935821263315585,
+    "N_hist_L": 0.7159763313609467,
+    "N_hist_P": 0.0378544163488709,
+    "D_behav": 0.34910569677546627,
+    "sum_w": 0.6471117852548265,
+    "sum_wC": 0.4483207290649273,
+    "sum_wL": 0.5633333333333334,
+    "sum_wP": 0.0837784519214931,
+    "n_events": 36,
+    "coll_eps": 28,
+    "succ_eps": 444,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 23
+   },
+   "SCAR-rand": {
+    "life": 926,
+    "death_part": "organs",
+    "common_len": 426,
+    "valid_pair": true,
+    "N_hist": 0.3884072959718487,
+    "N_hist_L": 0.4329896907216495,
+    "N_hist_P": 0.0945608790390487,
+    "D_behav": 0.3204670145259099,
+    "sum_w": 0.6257358258875474,
+    "sum_wC": 0.40832072906492733,
+    "sum_wL": 0.5633333333333334,
+    "sum_wP": 0.062402492554214074,
+    "n_events": 38,
+    "coll_eps": 31,
+    "succ_eps": 394,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 25
+   }
+  },
+  "cont_death_part": null,
+  "cont_broken": [
+   "arm",
+   "leg"
+  ]
+ },
+ {
+  "seed": 206,
+  "skip": null,
+  "cont_death": 1000,
+  "cont_events_post": [
+   {
+    "ep": 512,
+    "part": "arm",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 517,
+    "part": "arm",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 554,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 590,
+    "part": "arm",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 598,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 624,
+    "part": "arm",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 624,
+    "part": "arm",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 664,
+    "part": "arm",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 671,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 691,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 691,
+    "part": "arm",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 719,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 738,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 738,
+    "part": "arm",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 755,
+    "part": "arm",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 817,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 827,
+    "part": "leg",
+    "pk": "(((2, 2), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 827,
+    "part": "arm",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 827,
+    "part": "arm",
+    "pk": "(((2, 2), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 859,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 868,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 882,
+    "part": "arm",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 899,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 922,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 947,
+    "part": "arm",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 958,
+    "part": "arm",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 971,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 987,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.5265304039768327,
+    "N_hist_L": 0.6205128205128205,
+    "N_hist_P": 0.1908865039734487,
+    "D_behav": 0.07100344878578746,
+    "sum_w": 0.6802850657963766,
+    "sum_wC": 0.5897945109531303,
+    "sum_wL": 0.5666666666666667,
+    "sum_wP": 0.11361839912970996,
+    "n_events": 33,
+    "coll_eps": 29,
+    "succ_eps": 495,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 21
+   },
+   "Q-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.5265304039768327,
+    "N_hist_L": 0.6205128205128205,
+    "N_hist_P": 0.1908865039734487,
+    "D_behav": 0.07100344878578746,
+    "sum_w": 0.6802850657963766,
+    "sum_wC": 0.5897945109531303,
+    "sum_wL": 0.5666666666666667,
+    "sum_wP": 0.11361839912970996,
+    "n_events": 33,
+    "coll_eps": 29,
+    "succ_eps": 495,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 21
+   },
+   "SCAR-only": {
+    "life": 981,
+    "death_part": "brain",
+    "common_len": 481,
+    "valid_pair": true,
+    "N_hist": 0.347031028726048,
+    "N_hist_L": 0.35820895522388063,
+    "N_hist_P": 0.2510623213533905,
+    "D_behav": 0.30242064041688793,
+    "sum_w": 0.7537127738267662,
+    "sum_wC": 0.5897945109531303,
+    "sum_wL": 0.7266666666666667,
+    "sum_wP": 0.02704610716009951,
+    "n_events": 38,
+    "coll_eps": 31,
+    "succ_eps": 435,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 22
+   },
+   "NONE": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.37306288755682154,
+    "N_hist_L": 0.37500000000000006,
+    "N_hist_P": 0.3570342133455446,
+    "D_behav": 0.30548849956255625,
+    "sum_w": 0.723486835425506,
+    "sum_wC": 0.5897945109531303,
+    "sum_wL": 0.6866666666666666,
+    "sum_wP": 0.03682016875883935,
+    "n_events": 37,
+    "coll_eps": 26,
+    "succ_eps": 453,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 22
+   },
+   "SCAR-rand": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.38851915997164194,
+    "N_hist_L": 0.41379310344827586,
+    "N_hist_P": 0.19899534038154262,
+    "D_behav": 0.25511255171585173,
+    "sum_w": 0.6271886271432662,
+    "sum_wC": 0.5897945109531303,
+    "sum_wL": 0.6066666666666667,
+    "sum_wP": 0.020521960476599554,
+    "n_events": 39,
+    "coll_eps": 33,
+    "succ_eps": 467,
+    "broken": [
+     "arm",
+     "leg"
+    ],
+    "phantom_hits": 26
+   }
+  },
+  "cont_death_part": null,
+  "cont_broken": [
+   "arm",
+   "leg"
+  ]
+ },
+ {
+  "seed": 207,
+  "skip": null,
+  "cont_death": 1000,
+  "cont_events_post": [
+   {
+    "ep": 510,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 550,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 567,
+    "part": "leg",
+    "pk": "(((1, 2), False), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 582,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 582,
+    "part": "brain",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 600,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 611,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 638,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 641,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 668,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 718,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 725,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 730,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 769,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 789,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 823,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 823,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 855,
+    "part": "brain",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 884,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 888,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 904,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 939,
+    "part": "brain",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 940,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 950,
+    "part": "brain",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 968,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 999,
+    "part": "organs",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.6453610982600175,
+    "N_hist_L": 0.6666666666666667,
+    "N_hist_P": 0.15263956504717943,
+    "D_behav": 0.07321120149247061,
+    "sum_w": 0.6455441885109292,
+    "sum_wC": 0.7963220932214761,
+    "sum_wL": 0.64,
+    "sum_wP": 0.005544188510929204,
+    "n_events": 24,
+    "coll_eps": 21,
+    "succ_eps": 491,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 8
+   },
+   "Q-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.8340503525300171,
+    "N_hist_L": 0.8571428571428573,
+    "N_hist_P": 0.5436928387169729,
+    "D_behav": 0.06571041711432922,
+    "sum_w": 0.8668062748576757,
+    "sum_wC": 0.7963220932214761,
+    "sum_wL": 0.8,
+    "sum_wP": 0.06680627485767567,
+    "n_events": 30,
+    "coll_eps": 24,
+    "succ_eps": 493,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 10
+   },
+   "SCAR-only": {
+    "life": 855,
+    "death_part": "organs",
+    "common_len": 355,
+    "valid_pair": true,
+    "N_hist": 0.3666819675140873,
+    "N_hist_L": 0.36,
+    "N_hist_P": 0.4493454831522807,
+    "D_behav": 0.36302936824743276,
+    "sum_w": 0.9608333333333333,
+    "sum_wC": 0.516322093221476,
+    "sum_wL": 0.88,
+    "sum_wP": 0.08083333333333333,
+    "n_events": 31,
+    "coll_eps": 25,
+    "succ_eps": 322,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 9
+   },
+   "NONE": {
+    "life": 927,
+    "death_part": "organs",
+    "common_len": 427,
+    "valid_pair": true,
+    "N_hist": 0.5016521739879454,
+    "N_hist_L": 0.5,
+    "N_hist_P": 0.5265618236749481,
+    "D_behav": 0.33026615553232685,
+    "sum_w": 1.0289797315118272,
+    "sum_wC": 0.636322093221476,
+    "sum_wL": 0.9600000000000001,
+    "sum_wP": 0.06897973151182721,
+    "n_events": 31,
+    "coll_eps": 23,
+    "succ_eps": 392,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 7
+   },
+   "SCAR-rand": {
+    "life": 976,
+    "death_part": "organs",
+    "common_len": 476,
+    "valid_pair": true,
+    "N_hist": 0.5389568322134973,
+    "N_hist_L": 0.5555555555555556,
+    "N_hist_P": 0.3608572204406007,
+    "D_behav": 0.31114058772471825,
+    "sum_w": 1.060655026874971,
+    "sum_wC": 0.756322093221476,
+    "sum_wL": 0.96,
+    "sum_wP": 0.10065502687497105,
+    "n_events": 34,
+    "coll_eps": 27,
+    "succ_eps": 443,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 10
+   }
+  },
+  "cont_death_part": null,
+  "cont_broken": [
+   "leg"
+  ]
+ },
+ {
+  "seed": 208,
+  "skip": null,
+  "cont_death": 969,
+  "cont_events_post": [
+   {
+    "ep": 533,
+    "part": "neck",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 547,
+    "part": "neck",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 587,
+    "part": "neck",
+    "pk": "(((2, 2), True), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 590,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 593,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 620,
+    "part": "neck",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 645,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 705,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 705,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 734,
+    "part": "neck",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 752,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 792,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 803,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 825,
+    "part": "neck",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 869,
+    "part": "neck",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 874,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 881,
+    "part": "leg",
+    "pk": "(((1, 4), False), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 891,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 911,
+    "part": "neck",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 939,
+    "part": "brain",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 947,
+    "part": "leg",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 968,
+    "part": "neck",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 923,
+    "death_part": "neck",
+    "common_len": 423,
+    "valid_pair": true,
+    "N_hist": 0.5976581012305744,
+    "N_hist_L": 0.625,
+    "N_hist_P": 0.2714247356824795,
+    "D_behav": 0.09055004808206545,
+    "sum_w": 0.5745589378505517,
+    "sum_wC": 0.533638950090323,
+    "sum_wL": 0.56,
+    "sum_wP": 0.014558937850551635,
+    "n_events": 22,
+    "coll_eps": 22,
+    "succ_eps": 418,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 8
+   },
+   "Q-only": {
+    "life": 874,
+    "death_part": "neck",
+    "common_len": 374,
+    "valid_pair": true,
+    "N_hist": 0.5339195546006449,
+    "N_hist_L": 0.5333333333333333,
+    "N_hist_P": 0.5378668628656884,
+    "D_behav": 0.05914596018449953,
+    "sum_w": 0.6091069905793397,
+    "sum_wC": 0.44792769748231187,
+    "sum_wL": 0.52,
+    "sum_wP": 0.08910699057933967,
+    "n_events": 20,
+    "coll_eps": 20,
+    "succ_eps": 370,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 7
+   },
+   "SCAR-only": {
+    "life": 673,
+    "death_part": "neck",
+    "common_len": 173,
+    "valid_pair": true,
+    "N_hist": 0.405630578730996,
+    "N_hist_L": 0.35714285714285715,
+    "N_hist_P": 0.9358045192681467,
+    "D_behav": 0.4125349374331523,
+    "sum_w": 0.6112155012029586,
+    "sum_wC": 0.2479276974823119,
+    "sum_wL": 0.56,
+    "sum_wP": 0.05121550120295862,
+    "n_events": 19,
+    "coll_eps": 18,
+    "succ_eps": 148,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 5
+   },
+   "NONE": {
+    "life": 613,
+    "death_part": "neck",
+    "common_len": 113,
+    "valid_pair": true,
+    "N_hist": 0.24496721246198824,
+    "N_hist_L": 0.23529411764705882,
+    "N_hist_P": 0.36102509880086314,
+    "D_behav": 0.6485384605270097,
+    "sum_w": 0.709209851410106,
+    "sum_wC": 0.20792769748231188,
+    "sum_wL": 0.68,
+    "sum_wP": 0.029209851410105916,
+    "n_events": 22,
+    "coll_eps": 15,
+    "succ_eps": 65,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 5
+   },
+   "SCAR-rand": {
+    "life": 684,
+    "death_part": "neck",
+    "common_len": 184,
+    "valid_pair": true,
+    "N_hist": 0.39374029106790986,
+    "N_hist_L": 0.35714285714285715,
+    "N_hist_P": 0.6878931595553641,
+    "D_behav": 0.41771805002769136,
+    "sum_w": 0.6296731706320369,
+    "sum_wC": 0.2479276974823119,
+    "sum_wL": 0.56,
+    "sum_wP": 0.06967317063203692,
+    "n_events": 21,
+    "coll_eps": 17,
+    "succ_eps": 158,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 7
+   }
+  },
+  "cont_death_part": "neck",
+  "cont_broken": [
+   "leg"
+  ]
+ },
+ {
+  "seed": 209,
+  "skip": null,
+  "cont_death": 1000,
+  "cont_events_post": [
+   {
+    "ep": 512,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 527,
+    "part": "leg",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 563,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 567,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 608,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 614,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 650,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 673,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 674,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 684,
+    "part": "leg",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 731,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 741,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 782,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 793,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 812,
+    "part": "neck",
+    "pk": "(((1, 2), False), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 840,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 861,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 867,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 880,
+    "part": "neck",
+    "pk": "(((1, 2), False), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 903,
+    "part": "leg",
+    "pk": "(((3, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 908,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 935,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 947,
+    "part": "leg",
+    "pk": "(((1, 3), False), (2, 3))",
+    "intensity": 1.0,
+    "L_contrib": 0.0,
+    "explored": true,
+    "broken_at_hit": true
+   },
+   {
+    "ep": 960,
+    "part": "neck",
+    "pk": "(((2, 3), True), (2, 2))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   },
+   {
+    "ep": 993,
+    "part": "heart",
+    "pk": "(((2, 3), True), (2, 4))",
+    "intensity": 1.0,
+    "L_contrib": 1.0,
+    "explored": true,
+    "broken_at_hit": false
+   }
+  ],
+  "results": {
+   "FULL": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.7284046055332501,
+    "N_hist_L": 0.7894736842105263,
+    "N_hist_P": 0.2263657787348262,
+    "D_behav": 0.07188386355397705,
+    "sum_w": 0.772448028553308,
+    "sum_wC": 0.700927069975969,
+    "sum_wL": 0.68,
+    "sum_wP": 0.09244802855330791,
+    "n_events": 29,
+    "coll_eps": 26,
+    "succ_eps": 493,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 12
+   },
+   "Q-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.6710488035527417,
+    "N_hist_L": 0.7222222222222223,
+    "N_hist_P": 0.20829992624351593,
+    "D_behav": 0.07029489307067745,
+    "sum_w": 0.635279848173079,
+    "sum_wC": 0.700927069975969,
+    "sum_wL": 0.5599999999999999,
+    "sum_wP": 0.07527984817307903,
+    "n_events": 26,
+    "coll_eps": 24,
+    "succ_eps": 498,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 12
+   },
+   "SCAR-only": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.6046471033903441,
+    "N_hist_L": 0.6086956521739131,
+    "N_hist_P": 0.45455909443654136,
+    "D_behav": 0.3244471021674309,
+    "sum_w": 0.8151700520658387,
+    "sum_wC": 0.700927069975969,
+    "sum_wL": 0.8,
+    "sum_wP": 0.015170052065838626,
+    "n_events": 34,
+    "coll_eps": 30,
+    "succ_eps": 464,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 14
+   },
+   "NONE": {
+    "life": 1000,
+    "death_part": null,
+    "common_len": 500,
+    "valid_pair": true,
+    "N_hist": 0.5958759779108797,
+    "N_hist_L": 0.6153846153846154,
+    "N_hist_P": 0.3025505208437747,
+    "D_behav": 0.3001833197988654,
+    "sum_w": 1.0691688446531378,
+    "sum_wC": 0.700927069975969,
+    "sum_wL": 1.0,
+    "sum_wP": 0.06916884465313783,
+    "n_events": 42,
+    "coll_eps": 30,
+    "succ_eps": 465,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 17
+   },
+   "SCAR-rand": {
+    "life": 911,
+    "death_part": "heart",
+    "common_len": 411,
+    "valid_pair": true,
+    "N_hist": 0.47038266006598967,
+    "N_hist_L": 0.5217391304347826,
+    "N_hist_P": 0.03958806113624184,
+    "D_behav": 0.3512869595473119,
+    "sum_w": 0.9330910901934553,
+    "sum_wC": 0.580927069975969,
+    "sum_wL": 0.84,
+    "sum_wP": 0.09309109019345525,
+    "n_events": 33,
+    "coll_eps": 24,
+    "succ_eps": 370,
+    "broken": [
+     "leg"
+    ],
+    "phantom_hits": 12
+   }
+  },
+  "cont_death_part": null,
+  "cont_broken": [
+   "leg"
+  ]
+ }
+]
