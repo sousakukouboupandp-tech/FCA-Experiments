@@ -1,0 +1,21 @@
+旧版を走らせる（t=0..11）
+旧版 500.7 秒
+新版を走らせる
+新版 0.53 秒
+
+  t |  旧 |S_t| |  新 |S_t| | 旧 digest        | 新 digest        | 一致
+  0 |         1 |         1 | 24d34aa920c3f459 | 24d34aa920c3f459 | OK
+  1 |         1 |         1 | eec6d4d544b9be97 | eec6d4d544b9be97 | OK
+  2 |         2 |         2 | 2038e21a5bf38eed | 2038e21a5bf38eed | OK
+  3 |         5 |         5 | 01d0ee89e8bd0416 | 01d0ee89e8bd0416 | OK
+  4 |        13 |        13 | c4c2526885dfc998 | c4c2526885dfc998 | OK
+  5 |        32 |        32 | 5eabd76e6f6c0876 | 5eabd76e6f6c0876 | OK
+  6 |        68 |        68 | 209d8822c0b1ca5d | 209d8822c0b1ca5d | OK
+  7 |       133 |       133 | 97eb2fd7f514c21f | 97eb2fd7f514c21f | OK
+  8 |       254 |       254 | 11839b2a79efbf8b | 11839b2a79efbf8b | OK
+  9 |       460 |       460 | 1fbfb4ee6f8bf1ba | 1fbfb4ee6f8bf1ba | OK
+ 10 |       791 |       791 | 409fca71a09ac9d7 | 409fca71a09ac9d7 | OK
+ 11 |      1276 |      1276 | 4f9f03b3f6768f1d | 4f9f03b3f6768f1d | OK
+
+全時刻で count と digest が一致
+速度比: 946 倍
