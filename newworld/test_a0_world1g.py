@@ -172,6 +172,26 @@ for _ in range(50):
         s1 = State()
 check("同じ seed なら同じ抽選列", seq1 == seq2)
 
+# 19. 回帰テスト（★初回 Monte Carlo の結果を見た後に追加した post-diagnostic regression test★）
+#     事前登録した A-0 ではない。小物探索の1歩目の遭遇が集計から落ちていた件の再発防止。
+for hit, exp_search, exp_total in ((1, 1, 5), (2, 2, 6), (3, 3, 7), (4, 4, 8)):
+    s = State(e=E_MAX, w=0, n_small=12, mode=DECISION)
+    a = ACT_SMALL
+    t0, got_search, i = s.t, None, 0
+    while True:
+        i += 1
+        run_mode = w.start_mode(a) if s.mode == DECISION else s.mode
+        d = Draws(find=(i == hit), catch=(run_mode == CHASE_4))
+        nxt = transition(s, a, d)
+        if run_mode == SEARCH_SMALL and d.find:
+            got_search = nxt.t - t0
+        a = None
+        s = State(e=E_MAX, w=0, n_small=12, n_large=nxt.n_large, t=nxt.t, mode=nxt.mode)
+        if s.mode == DECISION:
+            break
+    check("回帰:%d歩目で遭遇 → 探索%d歩・合計%d歩" % (hit, exp_search, exp_total),
+          got_search == exp_search and s.t - t0 == exp_total)
+
 print("A-0 合格 %d 件 / NG %d 件" % (ok, len(ng)))
 for name in ng:
     print("  NG:", name)
