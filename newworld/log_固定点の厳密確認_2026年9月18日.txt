@@ -1,0 +1,26 @@
+primitive frontier の固定点を厳密に確認する
+t=0 から 118 まで進め、そこから 4 層ぶん
+★primitive マスク全体を直接比較する（decision の digest だけではない）★
+
+t=118 に到達（1050.0秒、RSS 2.48GB）
+
+t= 118  |F_t|=7,622,599  primitiveマスクdigest 020a5b3db4f47e6c
+t= 119  |F_t|=7,622,659  primitiveマスクdigest a016c7f76dd2fc41  前の層と完全一致: NO
+t= 120  |F_t|=7,622,659  primitiveマスクdigest a016c7f76dd2fc41  前の層と完全一致: ★YES★
+t= 121  |F_t|=7,622,659  primitiveマスクdigest a016c7f76dd2fc41  前の層と完全一致: ★YES★
+t= 122  |F_t|=7,622,659  primitiveマスクdigest a016c7f76dd2fc41  前の層と完全一致: ★YES★
+
+到達可能な primitive 状態: 7,622,659 / 8,452,224 = 90.19%
+到達可能な decision 状態: 1,055,659 / 1,056,528 = 99.92%
+到達不能な primitive 状態: 829,565
+到達不能な decision 状態: 869
+
+MODE ごとの到達可能数
+  decision       1,055,659 / 1,056,528 =  99.92%
+  search_small   1,032,240 / 1,056,528 =  97.70%
+  chase_1        1,032,240 / 1,056,528 =  97.70%
+  chase_2        1,008,480 / 1,056,528 =  95.45%
+  chase_3          984,720 / 1,056,528 =  93.20%
+  chase_4          960,960 / 1,056,528 =  90.95%
+  search_large     774,180 / 1,056,528 =  73.28%
+  combat           774,180 / 1,056,528 =  73.28%

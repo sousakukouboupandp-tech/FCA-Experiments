@@ -1,0 +1,61 @@
+メモリの内訳を確定させる診断
+範囲 t=0..18（1層キャッシュ）
+
+【A 展開終了】
+  RSS     574.1MB  tm現在    216.3MB  entries 135,203  Σsuccessors 1,490,941
+【D snapshot 自身の影響】
+  撮る前 RSS     574.1MB
+  撮った後 RSS     863.2MB
+【B eviction後】
+  RSS     801.1MB  tm現在     69.7MB  entries 28,062  Σsuccessors 346,054
+【C gc後】
+  RSS     492.0MB  tm現在     65.8MB
+
+=== A→B の差分（eviction で何が消えたか）===
+     -87.35MB  -1,144,863件  diag_memory2.py:76: size=26.4 MiB (-87.3 MiB), count=346055 (-1144863), average=80 B
+     -29.41MB    -963,623件  world1g.py:227: size=9272 KiB (-29.4 MiB), count=296694 (-963623), average=32 B
+     -12.81MB    -107,007件  diag_memory2.py:78: size=3800 KiB (-12.8 MiB), count=28062 (-107007), average=139 B
+      -6.78MB     -88,878件  diag_memory2.py:48: size=1805 KiB (-6944 KiB), count=23108 (-88878), average=80 B
+      -5.72MB    -107,136件  diag_memory2.py:54: size=1535 KiB (-5859 KiB), count=28064 (-107136), average=56 B
+      -5.72MB    -107,135件  diag_memory2.py:79: size=6655 KiB (-5859 KiB), count=28064 (-107135), average=243 B
+      -2.71MB     -88,887件  dense_index.py:53: size=722 KiB (-2778 KiB), count=23109 (-88887), average=32 B
+      +0.00MB          +6件  tracemalloc.py:558: size=480 B (+424 B), count=7 (+6), average=69 B
+
+=== successor 数の分布（最終層で新規に作った entry）===
+  successor   1個:      707 (  2.5%)
+  successor   2個:    2,194 (  7.8%)
+  successor   3個:      832 (  3.0%)
+  successor   4個:    3,046 ( 10.9%)
+  successor   5個:      885 (  3.2%)
+  successor   6個:    2,091 (  7.5%)
+  successor   7個:      655 (  2.3%)
+  successor   8個:    2,760 (  9.8%)
+  successor   9個:      477 (  1.7%)
+  successor  10個:    1,553 (  5.5%)
+  successor  11個:      321 (  1.1%)
+  successor  12個:    2,065 (  7.4%)
+  successor  13個:      162 (  0.6%)
+  successor  14個:    1,319 (  4.7%)
+  successor  15個:      164 (  0.6%)
+  successor  16個:    1,753 (  6.2%)
+  successor  17個:      279 (  1.0%)
+  successor  18個:      868 (  3.1%)
+  successor  19個:      164 (  0.6%)
+  successor  20個:    1,280 (  4.6%)
+  successor  21個:      150 (  0.5%)
+  successor  22個:      330 (  1.2%)
+  successor  23個:      115 (  0.4%)
+  successor  24個:      759 (  2.7%)
+  successor  26個:      240 (  0.9%)
+  successor  28個:      683 (  2.4%)
+  successor  29個:       93 (  0.3%)
+  successor  30個:      136 (  0.5%)
+  successor  32個:      695 (  2.5%)
+  successor  33個:       88 (  0.3%)
+  successor  34個:      139 (  0.5%)
+  successor  36個:      453 (  1.6%)
+  successor  38個:      136 (  0.5%)
+  successor  40個:      212 (  0.8%)
+  successor  42個:      122 (  0.4%)
+  successor  44個:      136 (  0.5%)
+  中央値あたり: 10
