@@ -18,63 +18,72 @@
         9768000
       ],
       "dtype": "uint8",
-      "bytes": 9768000
+      "bytes": 9768000,
+      "sha256": "5c521fe6bb8fa2d4e695fdabd43ed069c57ee0c18ea5eee53dba621901f6493b"
     },
     "offs": {
       "shape": [
         9768001
       ],
       "dtype": "int64",
-      "bytes": 78144008
+      "bytes": 78144008,
+      "sha256": "6d622451e525744d69969be392997f5f60ff9cc31e649775e33c165f56d8e1c1"
     },
     "prob": {
       "shape": [
         138880068
       ],
       "dtype": "float64",
-      "bytes": 1111040544
+      "bytes": 1111040544,
+      "sha256": "d4a260af85ce2ee204c73f93ee28206888f2469129b9a1acfc1f13deecb1fcac"
     },
     "state_idx": {
       "shape": [
         9768000
       ],
       "dtype": "uint32",
-      "bytes": 39072000
+      "bytes": 39072000,
+      "sha256": "350036cd7efda8c20eaa8722b91e0eb6b4fcd0380fa245cb38d9c892e6829e8f"
     },
     "succ": {
       "shape": [
         138880068
       ],
       "dtype": "uint32",
-      "bytes": 555520272
+      "bytes": 555520272,
+      "sha256": "8e27ce94336f19cbe90882def5bcf5c4d3e7ec2bd4e6cba122d5bc8995fa5cb6"
     },
     "t_cause": {
       "shape": [
         11401632
       ],
       "dtype": "uint8",
-      "bytes": 11401632
+      "bytes": 11401632,
+      "sha256": "a1da87f638233edc41a0707826b963b4cdbeef562418525b2b3ca62244b64608"
     },
     "t_offs": {
       "shape": [
         9768001
       ],
       "dtype": "int64",
-      "bytes": 78144008
+      "bytes": 78144008,
+      "sha256": "ef1fbdff00194050367a052f7317a7a875baa1d8de1457252e8e757ba27af5e6"
     },
     "t_prob": {
       "shape": [
         11401632
       ],
       "dtype": "float64",
-      "bytes": 91213056
+      "bytes": 91213056,
+      "sha256": "cc237b48e0e272ab1302fe693c128e5558990e172ecae8a2859ab59f1bd9630b"
     },
     "t_rawe": {
       "shape": [
         11401632
       ],
       "dtype": "int32",
-      "bytes": 45606528
+      "bytes": 45606528,
+      "sha256": "8d3680b022103038e7d8f1ee0628060a819efd18b2b5f03fbc5a789232d761ed"
     }
   },
   "sha256_all_arrays": "59b51b398d0b751c4a4f67e2e7dbe66c7a40a254c68246501666b174e8dd17ee",
@@ -101,5 +110,6 @@
     "est_1000_layers_min": 27.7,
     "est_96cond_hours": 44.3,
     "note": "backward Bellmanのみ。forward pass・policy保存・集計・I/Oは含まない下限寄りの見積もり"
-  }
+  },
+  "sha256_all_files_full": "3b62ed77fc32316012eb47116a146d195ee568d12f2512cad8f77c42cfa05234"
 }

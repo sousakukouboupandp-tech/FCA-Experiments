@@ -1,3 +1,5 @@
 __pycache__/  
 *.pyc  
 newworld/kernel_full/*.npy  
+newworld/_dummy_policy.dat  
+newworld/*.dat  
