@@ -109,7 +109,20 @@
     "edges_per_sec_M": 90.5,
     "est_1000_layers_min": 27.7,
     "est_96cond_hours": 44.3,
-    "note": "backward Bellmanのみ。forward pass・policy保存・集計・I/Oは含まない下限寄りの見積もり"
+    "note": "backward Bellmanのみ。forward pass・policy保存・集計・I/Oは含まない下限寄りの見積もり",
+    "forward_occupancy_sec_per_step_median": 1.106,
+    "forward_1000steps_min": 18.6,
+    "total_per_condition_min": 46,
+    "est_96cond_hours_with_forward": 74,
+    "known_observation": "前向きで RSS が 1000歩を通して 3.52→4.50 GiB に緩やかに増加。完走・上限内。原因未特定。メモリリークなしとは書かない"
   },
-  "sha256_all_files_full": "3b62ed77fc32316012eb47116a146d195ee568d12f2512cad8f77c42cfa05234"
+  "sha256_all_files_full": "3b62ed77fc32316012eb47116a146d195ee568d12f2512cad8f77c42cfa05234",
+  "status": "実験炉 Ver.1 として凍結（2026/9/18）",
+  "spec_doc": "SOLVER_FINAL_実験炉Ver1_凍結_2026年9月18日.md",
+  "policy_file": {
+    "bytes": 1056528000,
+    "GB_decimal": 1.056528,
+    "GiB": 0.984
+  },
+  "research_boundary": "C は未実行。科学的結果はゼロ。dummy policy の数値は科学的結果として扱わない"
 }
