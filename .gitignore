@@ -3,3 +3,5 @@ __pycache__/
 newworld/kernel_full/*.npy  
 newworld/_dummy_policy.dat  
 newworld/*.dat  
+newworld/solve_D0/*.dat  
+newworld/solve_D0/*.npy  

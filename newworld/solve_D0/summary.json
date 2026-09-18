@@ -1,0 +1,12 @@
+{
+  "objective": "D0",
+  "gamma": 1.0,
+  "horizon": 1000,
+  "kernel_sha": "3b62ed77fc32316012eb47116a146d195ee568d12f2512cad8f77c42cfa05234",
+  "V_init": 998.520049403921,
+  "selected_init": 1,
+  "optimal_bits_init": 1,
+  "backward_sec": 1571.5,
+  "layer_median_sec": 1.545,
+  "peak_rss_gb": 4.75
+}
