@@ -1,0 +1,10 @@
+最適化 dense solver（縮小A、H=20）
+index の総数 57,888
+遷移表の事前計算: 64,800 件、0.4秒
+
+D0                       秒    5.4  初期状態: grass=     20.0000  large=     15.9659  small=     19.5250  → grass
+DS                       秒    5.7  初期状態: grass=      1.0000  large=      0.6232  small=      0.8558  → grass
+D1a_Eset200_q2_g099      秒    7.1  初期状態: grass= -12672.8709  large= -19886.5404  small= -22047.6662  → grass
+D1b_Eset200_q2_g099      秒    7.2  初期状態: grass= -12672.8709  large= -21605.5588  small= -21886.5877  → grass
+D1a_Eset140_q2_g099      秒    7.1  初期状態: grass=    437.8296  large=  -4440.4022  small=  -5043.4073  → grass
+D1b_Eset140_q2_g099      秒    7.4  初期状態: grass=    437.8296  large=  -5354.5053  small=  -4957.9929  → grass
