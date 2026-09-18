@@ -1,0 +1,11 @@
+Gate C：1層 Bellman を正本と照合する
+  γ=0.99、報酬=1.0（D0 相当）
+  読み込み完了  RSS 2.06GB
+  照合する状態: 4,880 件
+
+V_next の種類 | 照合数 | max_abs_diff | max_rel_diff | argmax
+V0            |  5,994 |    2.220e-16 |    2.220e-16 | ('chase_4', 1, 10, 1, 1, None)           OK
+V1            |  5,994 |    1.110e-15 |    1.028e-15 | ('combat', 1, 9, 1, 1, None)             OK
+V2            |  5,994 |    4.263e-14 |    8.450e-16 | ('combat', 1979, 9, 1, 2, None)          OK
+
+★全ての V_next で1層 Bellman が正本と一致★

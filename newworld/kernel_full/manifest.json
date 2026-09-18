@@ -1,0 +1,105 @@
+{
+  "world": "World_1-G",
+  "world_spec_commit": "386bf76",
+  "engine_commit": "1cde347",
+  "n_pairs": 9768000,
+  "n_nonterminal": 138880068,
+  "n_terminal": 11401632,
+  "build_sec_pass1": 473.0,
+  "build_sec_pass2": 493.6,
+  "dtypes": {
+    "index": "uint32",
+    "probability": "float64",
+    "value": "float64"
+  },
+  "arrays": {
+    "act_id": {
+      "shape": [
+        9768000
+      ],
+      "dtype": "uint8",
+      "bytes": 9768000
+    },
+    "offs": {
+      "shape": [
+        9768001
+      ],
+      "dtype": "int64",
+      "bytes": 78144008
+    },
+    "prob": {
+      "shape": [
+        138880068
+      ],
+      "dtype": "float64",
+      "bytes": 1111040544
+    },
+    "state_idx": {
+      "shape": [
+        9768000
+      ],
+      "dtype": "uint32",
+      "bytes": 39072000
+    },
+    "succ": {
+      "shape": [
+        138880068
+      ],
+      "dtype": "uint32",
+      "bytes": 555520272
+    },
+    "t_cause": {
+      "shape": [
+        11401632
+      ],
+      "dtype": "uint8",
+      "bytes": 11401632
+    },
+    "t_offs": {
+      "shape": [
+        9768001
+      ],
+      "dtype": "int64",
+      "bytes": 78144008
+    },
+    "t_prob": {
+      "shape": [
+        11401632
+      ],
+      "dtype": "float64",
+      "bytes": 91213056
+    },
+    "t_rawe": {
+      "shape": [
+        11401632
+      ],
+      "dtype": "int32",
+      "bytes": 45606528
+    }
+  },
+  "sha256_all_arrays": "59b51b398d0b751c4a4f67e2e7dbe66c7a40a254c68246501666b174e8dd17ee",
+  "kernel_validation": {
+    "gate_A_invariants": "PASS（17件、NG 0）",
+    "gate_A_probability_groups_checked": 9768000,
+    "gate_A_max_prob_sum_error": "1.110e-15",
+    "gate_B_canonical_oracle": "PASS（7,211組、確率のずれ 0）",
+    "gate_B_sample": "端 2,880 件 + 無作為 3,000 件",
+    "gate_C_bellman_oracle": "PASS（V0/V1/V2 で 5,994組、最大 4.263e-14）",
+    "gate_C_note": "V1=index依存、V2=乱数。indexのずれを検出できる形で検証",
+    "validation_scripts": [
+      "gateA_kernel_invariants.py",
+      "gateB_kernel_vs_canonical.py",
+      "gateC_bellman_oracle.py"
+    ],
+    "tenju_branches": "kernelはt=0で生成したため天寿の枝は0件。天寿の判定はsolver側で行う"
+  },
+  "bellman_measured": {
+    "layer_sec_median": 1.661,
+    "layer_sec_first": 1.6,
+    "peak_rss_gb": 3.72,
+    "edges_per_sec_M": 90.5,
+    "est_1000_layers_min": 27.7,
+    "est_96cond_hours": 44.3,
+    "note": "backward Bellmanのみ。forward pass・policy保存・集計・I/Oは含まない下限寄りの見積もり"
+  }
+}
