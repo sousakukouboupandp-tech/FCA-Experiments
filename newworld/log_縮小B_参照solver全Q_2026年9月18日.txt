@@ -1,0 +1,18 @@
+縮小B の参照 solver（H=40）
+草だけで生き切れるか：草の正味 -6/歩、E_MAX=200 → 34歩目に飢え死
+  → H=40 なら ★生き切れない（狩りが必須）★
+decision 状態（structural-valid）: 7,200
+時刻 × 状態: 288,000
+
+D0                       digest bc0275c768ede8a3  秒   17.7
+    初期状態: grass=     34.0000  large=     25.0344  small=     26.6719  → grass
+DS                       digest 7c301c76265ca7a6  秒   18.3
+    初期状態: grass=      0.4261  large=      0.2070  small=      0.3067  → grass
+D1a_Eset200_q2_g099      digest cc0892eb5ab50ec1  秒   21.3
+    初期状態: grass= -28001.7746  large= -30606.8687  small= -31707.3184  → grass
+D1b_Eset200_q2_g099      digest 6acb476f92b7f8ad  秒   21.6
+    初期状態: grass= -26855.3042  large= -31798.9597  small= -30909.7004  → grass
+D1a_Eset140_q2_g099      digest 7f82c027b4c6d129  秒   21.4
+    初期状態: grass=  -9340.5243  large= -10892.5058  small= -11251.3687  → grass
+D1b_Eset140_q2_g099      digest 1a9bed867f5093f7  秒   21.9
+    初期状態: grass=  -8539.7184  large= -11473.9656  small= -10708.7765  → grass
