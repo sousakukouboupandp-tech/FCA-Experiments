@@ -1,0 +1,37 @@
+{
+  "DS_policy": {
+    "path": "solve_DS/policy.dat",
+    "bytes": 1056528000,
+    "sha256": "9189ac75175c63f7fddb8d87efb3d388b4aff51afd52740f865b12ea3448c552"
+  },
+  "DS_optimal_set": {
+    "path": "solve_DS/optimal_set.dat",
+    "bytes": 1056528000,
+    "sha256": "262bd5498df4b2410cbadf44ded533cd2243571d30b1369970e7bf3aff3ec7ab"
+  },
+  "DS_V0": {
+    "path": "solve_DS/V0.npy",
+    "bytes": 67617920,
+    "sha256": "b4557f727091b09cf45941ba4b7a3d3760470c38b3cb6c2f146a240ee055a908"
+  },
+  "D0_policy": {
+    "path": "solve_D0/policy.dat",
+    "bytes": 1056528000,
+    "sha256": "722fcdc3b4fe803930872413ce558e1743b2526e036bc12d30028772504b7efc"
+  },
+  "D0_optimal_set": {
+    "path": "solve_D0/optimal_set.dat",
+    "bytes": 1056528000,
+    "sha256": "ca09be46849da47b4e43293a05ea93c7568bce2ce359ff5ee57ce6426cdf17a3"
+  },
+  "D0_V0": {
+    "path": "solve_D0/V0.npy",
+    "bytes": 67617920,
+    "sha256": "5e4032007712b734b7c164d18b401475fda75800c51f4f8fbb4e8ba7949b49b8"
+  },
+  "D0_V1": {
+    "path": "solve_D0/V1.npy",
+    "bytes": 67617920,
+    "sha256": "6beca93d492b3d48f64a70a2564f1dd759a9d6df9a0832f92db812d176b56bb2"
+  }
+}

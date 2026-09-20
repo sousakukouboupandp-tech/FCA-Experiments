@@ -1,0 +1,12 @@
+{
+  "objective": "D_S-exact",
+  "horizon": 1000,
+  "kernel_sha": "3b62ed77fc32316012eb47116a146d195ee568d12f2512cad8f77c42cfa05234",
+  "V_init": 0.9905896122843411,
+  "selected_init": 1,
+  "optimal_bits_init": 1,
+  "D0_policy_tenju": 0.851102,
+  "backward_sec": 1235.9,
+  "layer_median_sec": 1.224,
+  "peak_rss_gb": 4.75
+}
