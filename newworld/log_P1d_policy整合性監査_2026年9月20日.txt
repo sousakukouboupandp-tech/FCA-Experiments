@@ -1,0 +1,26 @@
+P1d：policy.dat ↔ 直接 Q の整合性監査（93 vs 171）
+
+【policy.dat の同一性】
+  サイズ 1,056,528,000 バイト
+  更新日時 2026-09-18 14:08:00
+  SHA-256 722fcdc3b4fe803930872413ce558e17
+  summary: V0=998.520049, kernel=3b62ed77fc323160
+
+kernel と V1 を読んだ  RSS 2.05GB
+  ★kernel の SHA-256 が summary と一致★
+t=0 の Q を作った
+
+【切り替わりの回数（t=0, W=0, N_S=12, N_L=3, E=1..2000）】
+  (a) policy.dat          : 171
+  (b) Q＋共通規則（同点あり）: 171
+  (c) Q＋単純 argmax       : 93
+
+【不一致の件数】
+  policy.dat ↔ 共通規則 : 0
+  policy.dat ↔ argmax  : 338
+
+  ★policy.dat と共通規則は全一致★
+
+【判定】
+  ★A: 共通の選択規則を使えば一致した。原因は P1c の単純 argmax。solver は無罪★
+  ★採用すべき切り替わりの回数は (a)=(b)=171★
