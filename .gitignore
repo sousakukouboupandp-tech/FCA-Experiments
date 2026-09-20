@@ -5,3 +5,5 @@ newworld/_dummy_policy.dat
 newworld/*.dat  
 newworld/solve_D0/*.dat  
 newworld/solve_D0/*.npy  
+newworld/solve_DS/*.dat  
+newworld/solve_DS/*.npy  
