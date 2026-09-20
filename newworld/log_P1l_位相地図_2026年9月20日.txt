@@ -1,0 +1,78 @@
+P1l：位相レーンの地図（★記述のみ。原因判定には使わない★）
+  t=0, W=0, N_S=12, N_L=3
+  行：E のブロック（1-20, 21-40, …）／列：E mod 20（1,2,…,19,0 の順）
+  記号：G=草  s=小物  L=大物
+
+【selected action の地図】
+       1 2 3 4 5 6 7 8 910111213141516171819 0
+   1-  G G G G G G G G G G G G G G G G G G G G
+  21-  L L L L L L G G G G G G G G G G G G G G
+  41-  L L L L L L G G G G G G G G G G G G G G
+  61-  L L L L L L L L L L L G G G G G G G G G
+  81-  s s s s s s G G G G G G G G G G G G G G
+ 101-  s s s s s s G G G G G G G G G G G G G G
+ 121-  s s s s s s G G G G G G G G G G G G G G
+ 141-  s s s s s s G G G G G G G G G G G G G G
+ 161-  s s s s s s s s s s s G G G G G G G G G
+ 181-  s s s s s s s s s s s G G G G G G G G G
+ 201-  s s s s s s s s s s s G G G G G G G G G
+ 221-  s s s s s s s s s s s G G G G G G G G G
+  …（途中は同じ形が続く。全体は CSV に出す）
+ 401-  s s s s s s s s s s s G G G G G G G G G
+ 601-  s s s s s s s s s s s G G G G G G G G G
+ 801-  s s s s s s s s s s s G G G G s G G G G
+1001-  s s s s s s s s s s s G G G G G G G G G
+1201-  s s s s s s s s s s s G G G G G G G G G
+1401-  s s s s s s s s s s s G G G G G G G G G
+1601-  G G G G G G G G G G G G G G G G G G G G
+1801-  G G G G G G G G G G G G G G G G G G G G
+1941-  G G G G G G G G G G G G G G G G G G G G
+1961-  G G G G G G G G G G G G G G G G G G G G
+1981-  G G G G G G G G G G G G G G G G G G G G
+
+【optimal_set の地図】記号：G=草のみ s=小物のみ a=草+小物 L=大物のみ b=草+大物 c=小物+大物 *=三つ
+       1 2 3 4 5 6 7 8 910111213141516171819 0
+   1-  * * * * * * G G G G G G G G G G G G G G
+  21-  L L L L L L G G G G G G G G G G G G G G
+  41-  L L L L L L G G G G G G G G G G G G G G
+  61-  L L L L L L L L L L L G G G G G G G G G
+  81-  s s s s s s G G G G G G G G G G G G G G
+ 101-  s s s s s s G G G G G G G G G G G G G G
+ 121-  s s s s s s G G G G G G G G G G G G G G
+ 141-  s s s s s s G G G G G G G G G G G G G G
+ 161-  s s s s s s s s s s s G G G G G G G G G
+ 181-  s s s s s s s s s s s G G G G G G G G G
+ 201-  s s s s s s s s s s s G G G G G G G G G
+ 221-  s s s s s s s s s s s G G G G G G G G G
+  …
+ 401-  s s s s s s s s s s s G G G G G G G G G
+ 801-  s s s s s s s s s s s a a a a s a a a a
+1201-  s s s s s s s s s s s a a a a a a a a a
+1601-  G G G G G G G G G G G G G G G G G G G G
+1961-  G G G G G G G G G G G G G G G G G G G G
+1981-  G G G G G G G G G G G G G G G G G G G G
+
+【residue ごとの集計】（各 residue に100個の E がある）
+  余り |    草 |  小物 |  大物 | block方向の変化回数 | 同点を含む数
+     1 ★|    26 |    71 |     3 |                   3 |            1
+     2  |    26 |    71 |     3 |                   3 |            1
+     3  |    26 |    71 |     3 |                   3 |            1
+     4  |    26 |    71 |     3 |                   3 |            1
+     5  |    26 |    71 |     3 |                   3 |            1
+     6  |    26 |    71 |     3 |                   3 |            1
+     7  |    32 |    67 |     1 |                   4 |            0
+     8  |    32 |    67 |     1 |                   4 |            0
+     9  |    32 |    67 |     1 |                   4 |            0
+    10  |    32 |    67 |     1 |                   4 |            0
+    11  |    32 |    67 |     1 |                   4 |            0
+    12 ★|   100 |     0 |     0 |                   0 |           43
+    13  |   100 |     0 |     0 |                   0 |           43
+    14  |   100 |     0 |     0 |                   0 |           43
+    15  |   100 |     0 |     0 |                   0 |           43
+    16  |    89 |    11 |     0 |                   2 |           34
+    17  |   100 |     0 |     0 |                   0 |           42
+    18  |   100 |     0 |     0 |                   0 |           42
+    19  |   100 |     0 |     0 |                   0 |           42
+     0  |   100 |     0 |     0 |                   0 |           42
+
+CSV: solve_D0\P1l_phase_map.csv
